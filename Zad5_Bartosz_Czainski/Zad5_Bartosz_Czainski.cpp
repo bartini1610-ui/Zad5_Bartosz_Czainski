@@ -49,6 +49,7 @@ int main()
     delete complex;
     delete complex2;
     delete complex3;
+    cout << "Test " << endl;
     return 0;
 }
 
